@@ -56,12 +56,12 @@ public class Gaulois {
 	}
 	/*
 	 * public static void main(String[] args) { Gaulois asterix = new
-	 * Gaulois("AstÃ©rix", 8); System.out.println(asterix); }
+	 * Gaulois("Astérix", 8); System.out.println(asterix); }
 	 */
 
 	/*
 	 * public static void main(String[] args) { Gaulois asterix = new
-	 * Gaulois("AstÃ©rix", 8); Druide panoramix = new Druide("Panoramix", 5, 10);
+	 * Gaulois("Astérix", 8); Druide panoramix = new Druide("Panoramix", 5, 10);
 	 * Romain cesar = new Romain("CÃ©sar", 10);
 	 * 
 	 * panoramix.preparerPotion();
